@@ -1,0 +1,12 @@
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/bin/Debug/netcoreapp3.1/BasicClassExercise.deps.json
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/bin/Debug/netcoreapp3.1/BasicClassExercise.runtimeconfig.json
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/bin/Debug/netcoreapp3.1/BasicClassExercise.runtimeconfig.dev.json
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/bin/Debug/netcoreapp3.1/BasicClassExercise.dll
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/bin/Debug/netcoreapp3.1/BasicClassExercise.pdb
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.csprojAssemblyReference.cache
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.AssemblyInfoInputs.cache
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.AssemblyInfo.cs
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.csproj.CoreCompileInputs.cache
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.dll
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.pdb
+/Users/abukabit/Desktop/repos/BasicClassExercise/BasicClassExercise/obj/Debug/netcoreapp3.1/BasicClassExercise.genruntimeconfig.cache
